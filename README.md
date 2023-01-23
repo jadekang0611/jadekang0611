@@ -8,7 +8,7 @@ Welcome to my GitHub profile! My name is Jade, and I'm from Orange County, Calif
 
 ### Summary of My Github
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={jadekang0611}&theme=vue
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={jadekang0611}&theme=vue" />
 
 ### Fullstack dev skills:
 
