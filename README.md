@@ -1,5 +1,6 @@
 <br/>
 <p align="center">
+<img src="https://github.com/jadekang0611/jadekang0611/blob/main/my-biz-card.png" />
 </p>
 <br/>
 
