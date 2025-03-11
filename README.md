@@ -4,10 +4,7 @@
 </p>
 <br/>
 
-Welcome to my GitHub profile! My name is Jade, and I'm from Orange County, California. I'm an experienced Frontend focused Engineer with 5 years of experience using React, GraphQL (with Hasura), JavaScript, UI frameworks (Material UI, TailwindCSS, and Bootstrap) in agile environments and 1+ year of experience working with headless CMS such as Sanity.io, Contentful, and Hygraph. Extensive experience using test-driven development to build mobile-first websites and web applications for FinTech, HealthCare, Construction, Professional Services, Consumer Goods, and Blockchain. I believe in continuing education and its benefits especially in deep learning. 
-
-### Summary of My Github
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jadekang0611&theme=vue" />
+Welcome to my GitHub profile! My name is Jade, and I'm in SoCal. I'm an experienced Frontend focused Engineer with 5 years of experience using React, GraphQL (with Hasura), TypeScript, UI frameworks (Material UI, TailwindCSS, and Bootstrap) in agile environments and 3+ years of experience working with headless CMS such as Sanity.io, Contentful, and Hygraph. Extensive experience using test-driven development to build mobile-first websites and web applications for FinTech, HealthCare, Construction, Professional Services, Consumer Goods, and Blockchain. I believe in continuing education and its benefits especially in deep learning. 
 
 ### Fullstack dev skills:
 
